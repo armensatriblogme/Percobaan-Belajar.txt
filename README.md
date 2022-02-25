@@ -1,2 +1,2 @@
-# Percobaan-Belajar.txt
+# Percobaan-Belajar
 ini untuk pembelajaran saja
